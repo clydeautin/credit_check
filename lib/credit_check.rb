@@ -1,3 +1,5 @@
+require ./CreditCheck
+
 card_number = "5541808923795240"
 
 def luhn_check(cc_num)
